@@ -29,3 +29,8 @@ Dash is running on http://0.0.0.0:8050/
 
  * Serving Flask app 'sox_dashboard'
  * Debug mode: off
+Starting dashboard server on port 8050...
+Dash is running on http://0.0.0.0:8050/
+
+ * Serving Flask app 'sox_dashboard'
+ * Debug mode: off

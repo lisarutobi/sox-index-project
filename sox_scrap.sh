@@ -44,7 +44,7 @@ else
     echo "Change: $change_amount ($change_percent)"
 fi
 
-echo "As of $(date +"%b %d, %Y"). Values delayed up to 15 minutes"
+echo "As of $(date +"%b %d, %Y")."
 echo ""
 
 if [ -z "$day_range" ]; then
@@ -74,6 +74,5 @@ else
 fi
 
 echo ""
-echo "Note: This data is provided for informational purposes only."
 echo "Debug information saved to debug_output.html"
 
