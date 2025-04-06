@@ -10,7 +10,7 @@ def run_bash_script():
     """Run the bash script and capture its output"""
     try:
         # Execute the bash script and capture the output
-        result = subprocess.run(['./test.sh'], capture_output=True, text=True)
+        result = subprocess.run(['./sox_scrap.sh'], capture_output=True, text=True)
         return result.stdout
     except Exception as e:
         print(f"Error running bash script: {e}")

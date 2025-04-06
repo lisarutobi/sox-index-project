@@ -76,3 +76,4 @@ fi
 echo ""
 echo "Note: This data is provided for informational purposes only."
 echo "Debug information saved to debug_output.html"
+
