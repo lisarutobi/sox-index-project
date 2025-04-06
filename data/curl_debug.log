@@ -56,7 +56,7 @@
 } [5 bytes data]
 * TLSv1.2 (OUT), TLS header, Supplemental data (23):
 } [5 bytes data]
-* Using Stream ID: 1 (easy handle 0x5efa23b889f0)
+* Using Stream ID: 1 (easy handle 0x6086c79319f0)
 * TLSv1.2 (OUT), TLS header, Supplemental data (23):
 } [5 bytes data]
 > GET /index/Overview/SOX HTTP/2
@@ -89,16 +89,16 @@
 < x-aspnetmvc-version: 5.2
 < x-frame-options: SAMEORIGIN
 < x-aspnet-version: 4.0.30319
-< set-cookie: __RequestVerificationToken=AVMg2oAi5Ue_0NfsfATxnNgZo38sjOBECsHAOx-1Odq95QLM4Zg1CE6yB141V0sNTlfQndfM2xvO4D6G9l7cSD0EUcZn7qiS7Y0a803hZnU1; path=/; HttpOnly
+< set-cookie: __RequestVerificationToken=hk2xiXcEL3ebUk7OTjTY6uc9fgSD2U2wj7IAKuMGbtDOr17q1aC2MKk-N_uS_CS_Ew0iBWdhQQy9hWpq5KEKGORdU4shTiKoqnqYt5l6eME1; path=/; HttpOnly
 < x-powered-by: ASP.NET
 < strict-transport-security: max-age=31536000; includeSubDomains
-< date: Thu, 27 Mar 2025 09:29:59 GMT
-< set-cookie: NSC_W.HJX.XXX.443=1116a3dbb33a2e70b55222d542e10ae1d9c547ed8f656501fac80e1e7f2f31d76bb12cf6;expires=Fri, 28-Mar-2025 09:40:06 GMT;path=/;secure;httponly
-< set-cookie: visid_incap_2594168=q36hgmz3SmijeR1MX7Z7TJga5WcAAAAAQUIPAAAAAABCSqi2wsBwU5eZ/iCItrui; expires=Thu, 26 Mar 2026 23:51:10 GMT; HttpOnly; path=/; Domain=.nasdaqomx.com
-< set-cookie: nlbi_2594168=eeXgWtEXGVT1YUsISCe9RgAAAAD7mqMBNXnRlxwd7Hxy9ziI; HttpOnly; path=/; Domain=.nasdaqomx.com
-< set-cookie: incap_ses_281_2594168=WcW8ddKCZD3mKcfTLFDmA5ga5WcAAAAA7LKif84M2Q24qntri/M5ow==; path=/; Domain=.nasdaqomx.com
+< date: Sun, 06 Apr 2025 09:00:02 GMT
+< set-cookie: NSC_W.HJX.XXX.443=4afda3dade6745face2ce67b4191bc3f8a3d6ededefc1acbcb4091c2a5a71f6c0663bed6;expires=Mon, 07-Apr-2025 09:10:06 GMT;path=/;secure;httponly
+< set-cookie: visid_incap_2594168=094YovB9Tjaer1Vjb5bcaZJC8mcAAAAAQUIPAAAAAADjrGYpn8/zuOL76ebHUUHU; expires=Sun, 05 Apr 2026 23:41:15 GMT; HttpOnly; path=/; Domain=.nasdaqomx.com
+< set-cookie: nlbi_2594168=Mby6SErDnXPh3qsoSCe9RgAAAADzP+vxDtfDvk12cZk/Bg6n; HttpOnly; path=/; Domain=.nasdaqomx.com
+< set-cookie: incap_ses_1687_2594168=kjDRQLEn3EGbaJzTx21pF5JC8mcAAAAAdDk2YRoyL3d6HQ3wWwYQJg==; path=/; Domain=.nasdaqomx.com
 < x-cdn: Imperva
-< x-iinfo: 14-121048990-121048995 NNNN CT(76 164 0) RT(1743067800015 45) q(0 0 3 0) r(4 4) U24
+< x-iinfo: 58-99091354-99091373 NNNN CT(76 407 0) RT(1743930001413 56) q(0 0 5 -1) r(11 11) U24
 < 
 * TLSv1.2 (IN), TLS header, Supplemental data (23):
 { [5 bytes data]

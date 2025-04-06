@@ -46,6 +46,11 @@ extract_data() {
 log_data() {
     mkdir -p "$DATA_DIR/historical"
     echo "$TIMESTAMP,$LAST_PRICE,$NET_CHANGE,$DAY_HIGH" >> "$DATA_DIR/historical/sox_index_$(date +"%Y%m%d").csv"
+    FILE="$DATA_DIR/historical/sox_index_$(date +"%Y%m%d").csv"
+    LINE_COUNT=$(wc -l < "$FILE")
+    if (( LINE_COUNT < 2 )); then
+      echo "Warning: CSV for today has only $LINE_COUNT row(s)." >> "$DATA_DIR/scrape_warnings.log"
+    fi
 }
 
 # Main scraping function
@@ -62,6 +67,10 @@ main() {
     echo "Last Price: $LAST_PRICE"
     echo "Net Change: $NET_CHANGE"
     echo "Day High: $DAY_HIGH"
+    if [[ "$LAST_PRICE" == "N/A" || "$NET_CHANGE" == "N/A" ]]; then
+        echo "ERROR $(date): Failed to extract data" >> "$DATA_DIR/scrape_errors.log"
+        # Send notification or alert here
+    fi
 }
 
 # Execute main function
