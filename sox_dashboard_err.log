@@ -12,3 +12,707 @@
 91.165.73.125 - - [06/Apr/2025 18:22:52] "POST /_dash-update-component HTTP/1.1" 200 -
 91.165.73.125 - - [06/Apr/2025 18:23:01] "POST /_dash-update-component HTTP/1.1" 200 -
 91.165.73.125 - - [06/Apr/2025 18:23:04] "POST /_dash-update-component HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 18:42:11] "GET / HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 18:42:11] "GET /_dash-component-suites/dash/deps/polyfill@7.v3_0_2m1743859350.12.1.min.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 18:42:11] "GET /_dash-component-suites/dash/deps/react@18.v3_0_2m1743859350.3.1.min.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 18:42:11] "GET /_dash-component-suites/dash/deps/react-dom@18.v3_0_2m1743859350.3.1.min.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 18:42:11] "GET /_dash-component-suites/dash/dash-renderer/build/dash_renderer.v3_0_2m1743859350.min.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 18:42:11] "GET /_dash-component-suites/dash/deps/prop-types@15.v3_0_2m1743859350.8.1.min.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 18:42:11] "GET /_dash-component-suites/dash/dcc/dash_core_components.v3_0_4m1743859350.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 18:42:11] "GET /_dash-component-suites/dash/html/dash_html_components.v3_0_1m1743859350.min.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 18:42:11] "GET /_dash-component-suites/dash/dcc/dash_core_components-shared.v3_0_4m1743859350.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 18:42:11] "GET /_dash-component-suites/dash/dash_table/bundle.v6_0_1m1743859350.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 18:42:11] "GET /_dash-layout HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 18:42:11] "GET /_dash-dependencies HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 18:42:11] "GET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 18:42:11] "GET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 18:42:11] "POST /_dash-update-component HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 18:42:11] "GET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 18:42:12] "GET /_favicon.ico?v=3.0.2 HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 18:42:23] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 19:15:15] "GET / HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 19:15:16] "GET /_dash-layout HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 19:15:16] "GET /_dash-dependencies HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 19:15:16] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 19:15:16] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 19:15:16] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 19:15:16] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+147.185.133.47 - - [06/Apr/2025 19:32:17] "GET / HTTP/1.1" 200 -
+79.95.86.146 - - [06/Apr/2025 19:43:54] "GET / HTTP/1.1" 200 -
+79.95.86.146 - - [06/Apr/2025 19:43:55] "GET /_dash-component-suites/dash/deps/polyfill@7.v3_0_2m1743859350.12.1.min.js HTTP/1.1" 200 -
+79.95.86.146 - - [06/Apr/2025 19:43:55] "GET /_dash-component-suites/dash/deps/react@18.v3_0_2m1743859350.3.1.min.js HTTP/1.1" 200 -
+79.95.86.146 - - [06/Apr/2025 19:43:55] "GET /_dash-component-suites/dash/deps/react-dom@18.v3_0_2m1743859350.3.1.min.js HTTP/1.1" 200 -
+79.95.86.146 - - [06/Apr/2025 19:43:55] "GET /_dash-component-suites/dash/deps/prop-types@15.v3_0_2m1743859350.8.1.min.js HTTP/1.1" 200 -
+79.95.86.146 - - [06/Apr/2025 19:43:55] "GET /_dash-component-suites/dash/dash-renderer/build/dash_renderer.v3_0_2m1743859350.min.js HTTP/1.1" 200 -
+79.95.86.146 - - [06/Apr/2025 19:43:55] "GET /_dash-component-suites/dash/dcc/dash_core_components.v3_0_4m1743859350.js HTTP/1.1" 200 -
+79.95.86.146 - - [06/Apr/2025 19:43:55] "GET /_dash-component-suites/dash/dcc/dash_core_components-shared.v3_0_4m1743859350.js HTTP/1.1" 200 -
+79.95.86.146 - - [06/Apr/2025 19:43:55] "GET /_dash-component-suites/dash/html/dash_html_components.v3_0_1m1743859350.min.js HTTP/1.1" 200 -
+79.95.86.146 - - [06/Apr/2025 19:43:55] "GET /_dash-component-suites/dash/dash_table/bundle.v6_0_1m1743859350.js HTTP/1.1" 200 -
+79.95.86.146 - - [06/Apr/2025 19:43:56] "GET /_dash-layout HTTP/1.1" 200 -
+79.95.86.146 - - [06/Apr/2025 19:43:56] "GET /_dash-dependencies HTTP/1.1" 200 -
+79.95.86.146 - - [06/Apr/2025 19:43:56] "GET /_favicon.ico?v=3.0.2 HTTP/1.1" 200 -
+79.95.86.146 - - [06/Apr/2025 19:43:56] "GET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 200 -
+79.95.86.146 - - [06/Apr/2025 19:43:56] "POST /_dash-update-component HTTP/1.1" 200 -
+79.95.86.146 - - [06/Apr/2025 19:43:56] "GET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1" 200 -
+79.95.86.146 - - [06/Apr/2025 19:43:56] "GET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1" 200 -
+79.95.86.146 - - [06/Apr/2025 19:44:09] "POST /_dash-update-component HTTP/1.1" 200 -
+85.170.64.126 - - [06/Apr/2025 19:49:26] "GET / HTTP/1.1" 200 -
+85.170.64.126 - - [06/Apr/2025 19:49:26] "GET /_dash-component-suites/dash/deps/polyfill@7.v3_0_2m1743859350.12.1.min.js HTTP/1.1" 200 -
+85.170.64.126 - - [06/Apr/2025 19:49:26] "GET /_dash-component-suites/dash/deps/prop-types@15.v3_0_2m1743859350.8.1.min.js HTTP/1.1" 200 -
+85.170.64.126 - - [06/Apr/2025 19:49:26] "GET /_dash-component-suites/dash/deps/react-dom@18.v3_0_2m1743859350.3.1.min.js HTTP/1.1" 200 -
+85.170.64.126 - - [06/Apr/2025 19:49:26] "GET /_dash-component-suites/dash/deps/react@18.v3_0_2m1743859350.3.1.min.js HTTP/1.1" 200 -
+85.170.64.126 - - [06/Apr/2025 19:49:26] "GET /_dash-component-suites/dash/dash-renderer/build/dash_renderer.v3_0_2m1743859350.min.js HTTP/1.1" 200 -
+85.170.64.126 - - [06/Apr/2025 19:49:26] "GET /_dash-component-suites/dash/dcc/dash_core_components.v3_0_4m1743859350.js HTTP/1.1" 200 -
+85.170.64.126 - - [06/Apr/2025 19:49:26] "GET /_dash-component-suites/dash/dcc/dash_core_components-shared.v3_0_4m1743859350.js HTTP/1.1" 200 -
+85.170.64.126 - - [06/Apr/2025 19:49:26] "GET /_dash-component-suites/dash/html/dash_html_components.v3_0_1m1743859350.min.js HTTP/1.1" 200 -
+85.170.64.126 - - [06/Apr/2025 19:49:26] "GET /_dash-component-suites/dash/dash_table/bundle.v6_0_1m1743859350.js HTTP/1.1" 200 -
+85.170.64.126 - - [06/Apr/2025 19:49:27] "GET /_dash-dependencies HTTP/1.1" 200 -
+85.170.64.126 - - [06/Apr/2025 19:49:27] "GET /_dash-layout HTTP/1.1" 200 -
+85.170.64.126 - - [06/Apr/2025 19:49:27] "GET /_favicon.ico?v=3.0.2 HTTP/1.1" 200 -
+85.170.64.126 - - [06/Apr/2025 19:49:27] "GET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 200 -
+85.170.64.126 - - [06/Apr/2025 19:49:27] "GET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1" 200 -
+85.170.64.126 - - [06/Apr/2025 19:49:27] "GET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1" 200 -
+85.170.64.126 - - [06/Apr/2025 19:49:27] "POST /_dash-update-component HTTP/1.1" 200 -
+86.247.231.220 - - [06/Apr/2025 20:19:10] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+86.247.231.220 - - [06/Apr/2025 20:19:10] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+86.247.231.220 - - [06/Apr/2025 20:19:10] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+86.247.231.220 - - [06/Apr/2025 20:19:10] "POST /_dash-update-component HTTP/1.1" 200 -
+88.172.182.223 - - [06/Apr/2025 20:40:49] code 400, message Bad request version ('\x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sêê\x00\x00\x00')
+88.172.182.223 - - [06/Apr/2025 20:40:49] "[35m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03ª®Ö;¹Å³\x102ÿ;\x1f\x82|4\x9bæº\x913GVl\x09\x12(\x10-ùÖ\x88Ê õ\x15|n\x85\x055¤ã\x82¥±§ìè# @c9ÓÕ7\x0c*a\x1c\x98»fùÒ\x00 \x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sêê\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+88.172.182.223 - - [06/Apr/2025 20:40:49] code 400, message Bad request version ('r')
+88.172.182.223 - - [06/Apr/2025 20:40:49] "[35m[1m\x16\x03\x01\x07\x00\x01\x00\x06ü\x03\x034&m\x96\x94\x96\x87õlÏr6o2rø-\x8dÊý?\x87\x91^\x87\x0bÚ-zÂ\x04\x87 \x84µ\x80~lI\x1d«óZb\x16/vF\x86º\x0co\x9dK\x16Ã\x09aM©üG\x07\x8bø\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06\x93JJ\x00\x00\x00-\x00\x02\x01\x01\x00#\x00\x00ÿ\x01\x00\x01\x00\x00+\x00\x07\x06ZZ\x03\x04\x03\x03þ\x0d\x01\x1a\x00\x00\x01\x00\x01|\x00 »&wÚ\x15È3/W\x93\x1f\x1b:f\x0fF\x80ÐB@És\x90ËÑº;\x13\x96îN^\x00ðú\x15\x06\x16BNxR\x0b¾ g\x021ùvð³\x8d\x97­4¢L\x14\x09ßB»¼\x01kÑãLÏ2\x0ezzËJm%U®\x84çÿe­\x1cj\x97\x1f\x9clZöéyGzmÈüÉ\x16j"\x94\x8a\x88é\x80 îïo<\x1dâÌ3V§\x80Ð&\x8c§´+fÞ_\x11\x96Ø¶\x8f/u\x81ö8N­Ì:¶¢'í\x86kFnGD?Ðw9Þ©Tl2±\x9b]\x9eïaÏdE\x13\x9aæd"A¨\x08ª\x83=<l\x07È\x9fßò3V\x19sh\x88¨\x01\x80sRQÐ\x07¼\x08\x12\x9c²UW¨Û'¦!\x9f\x9c~­zvH\x0baü\x1fr[0m" HTTPStatus.BAD_REQUEST -
+88.172.182.223 - - [06/Apr/2025 20:40:49] code 400, message Bad request version ('\x00\x02\x01\x00\x00')
+88.172.182.223 - - [06/Apr/2025 20:40:49] "[35m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03\x0bÚNû\x93x\x16¤4\x96é²¾ÕH?T|ýb,\x1btk\x983ê#!\x1aS\x8e o\x82¯\x84T\x06Ý×°,o\x0fI/¯núK¸XwÐËDã\x9dÚ¬\x16\x90gi\x00 \x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x063ªª\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x12\x00\x00ÿ\x01\x00\x01\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x0b\x00\x02\x01\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+88.172.182.223 - - [06/Apr/2025 20:40:50] code 400, message Bad request version ("k\x9cL]'*<t")
+88.172.182.223 - - [06/Apr/2025 20:40:50] "[35m[1m\x16\x03\x01\x06 \x01\x00\x06\x9c\x03\x03g!ÇY\x00Ð ÑC\x82³ç÷,#F6r\x17¯\x06!i~rg3\x07B\x07°@ k\x9cL]'*<t[0m" HTTPStatus.BAD_REQUEST -
+88.172.182.223 - - [06/Apr/2025 20:40:51] "GET / HTTP/1.1" 200 -
+88.172.182.223 - - [06/Apr/2025 20:40:51] "GET /_dash-component-suites/dash/deps/polyfill@7.v3_0_2m1743859350.12.1.min.js HTTP/1.1" 200 -
+88.172.182.223 - - [06/Apr/2025 20:40:51] "GET /_dash-component-suites/dash/deps/react@18.v3_0_2m1743859350.3.1.min.js HTTP/1.1" 200 -
+88.172.182.223 - - [06/Apr/2025 20:40:51] "GET /_dash-component-suites/dash/deps/prop-types@15.v3_0_2m1743859350.8.1.min.js HTTP/1.1" 200 -
+88.172.182.223 - - [06/Apr/2025 20:40:51] "GET /_dash-component-suites/dash/deps/react-dom@18.v3_0_2m1743859350.3.1.min.js HTTP/1.1" 200 -
+88.172.182.223 - - [06/Apr/2025 20:40:51] "GET /_dash-component-suites/dash/dash-renderer/build/dash_renderer.v3_0_2m1743859350.min.js HTTP/1.1" 200 -
+88.172.182.223 - - [06/Apr/2025 20:40:51] "GET /_dash-component-suites/dash/dcc/dash_core_components.v3_0_4m1743859350.js HTTP/1.1" 200 -
+88.172.182.223 - - [06/Apr/2025 20:40:51] "GET /_dash-component-suites/dash/dcc/dash_core_components-shared.v3_0_4m1743859350.js HTTP/1.1" 200 -
+88.172.182.223 - - [06/Apr/2025 20:40:51] "GET /_dash-component-suites/dash/html/dash_html_components.v3_0_1m1743859350.min.js HTTP/1.1" 200 -
+88.172.182.223 - - [06/Apr/2025 20:40:51] "GET /_dash-component-suites/dash/dash_table/bundle.v6_0_1m1743859350.js HTTP/1.1" 200 -
+88.172.182.223 - - [06/Apr/2025 20:40:52] "GET /_dash-dependencies HTTP/1.1" 200 -
+88.172.182.223 - - [06/Apr/2025 20:40:52] "GET /_dash-layout HTTP/1.1" 200 -
+88.172.182.223 - - [06/Apr/2025 20:40:52] "GET /_favicon.ico?v=3.0.2 HTTP/1.1" 200 -
+88.172.182.223 - - [06/Apr/2025 20:40:52] "POST /_dash-update-component HTTP/1.1" 200 -
+88.172.182.223 - - [06/Apr/2025 20:40:52] "GET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 200 -
+88.172.182.223 - - [06/Apr/2025 20:40:52] "GET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1" 200 -
+88.172.182.223 - - [06/Apr/2025 20:40:52] "GET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 20:53:39] "GET / HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 20:53:39] "GET /_dash-layout HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 20:53:39] "GET /_dash-dependencies HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 20:53:40] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 20:53:40] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 20:53:40] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 20:53:40] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 21:30:51] "GET / HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 21:30:51] "GET /_dash-layout HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 21:30:51] "GET /_dash-dependencies HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 21:30:52] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 21:30:53] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 21:30:53] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 21:30:53] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+83.204.138.210 - - [06/Apr/2025 21:31:02] "GET / HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 21:31:02] "GET /_dash-component-suites/dash/deps/polyfill@7.v3_0_2m1743859350.12.1.min.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 21:31:02] "GET /_dash-component-suites/dash/deps/react@18.v3_0_2m1743859350.3.1.min.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 21:31:02] "GET /_dash-component-suites/dash/deps/prop-types@15.v3_0_2m1743859350.8.1.min.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 21:31:02] "GET /_dash-component-suites/dash/deps/react-dom@18.v3_0_2m1743859350.3.1.min.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 21:31:02] "GET /_dash-component-suites/dash/dash-renderer/build/dash_renderer.v3_0_2m1743859350.min.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 21:31:02] "GET /_dash-component-suites/dash/dcc/dash_core_components.v3_0_4m1743859350.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 21:31:02] "GET /_dash-component-suites/dash/dcc/dash_core_components-shared.v3_0_4m1743859350.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 21:31:02] "GET /_dash-component-suites/dash/html/dash_html_components.v3_0_1m1743859350.min.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 21:31:02] "GET /_dash-component-suites/dash/dash_table/bundle.v6_0_1m1743859350.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 21:31:03] "GET /_dash-dependencies HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 21:31:03] "GET /_dash-layout HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 21:31:03] "GET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 21:31:03] "GET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 21:31:03] "GET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1" 200 -
+83.204.138.210 - - [06/Apr/2025 21:31:03] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 21:32:09] "POST /_dash-update-component HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://10.0.0.102:8050
+[33mPress CTRL+C to quit[0m
+91.165.73.125 - - [06/Apr/2025 22:14:48] "GET / HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:14:48] "GET /_dash-layout HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:14:48] "GET /_dash-dependencies HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:14:49] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 22:14:49] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 22:14:49] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 22:14:49] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:15:23] "POST /_dash-update-component HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://10.0.0.102:8050
+[33mPress CTRL+C to quit[0m
+91.165.73.125 - - [06/Apr/2025 22:26:03] "GET / HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:26:03] "GET /_dash-layout HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:26:03] "GET /_dash-dependencies HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:26:04] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 22:26:04] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 22:26:04] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+[2025-04-06 22:26:04,399] ERROR in app: Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 536, in _validate_comparison_value
+    self._check_compatible_with(other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimes.py", line 540, in _check_compatible_with
+    self._assert_tzawareness_compat(other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimes.py", line 782, in _assert_tzawareness_compat
+    raise TypeError(
+TypeError: Cannot compare tz-naive and tz-aware datetime-like objects.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 983, in _cmp_method
+    other = self._validate_comparison_value(other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 539, in _validate_comparison_value
+    raise InvalidComparison(other) from err
+pandas.errors.InvalidComparison: 2025-03-07 17:26:04.397861-05:00
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/dash.py", line 1405, in dispatch
+    ctx.run(
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 529, in add_context
+    raise err
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 518, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 47, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+  File "/home/ubuntu/sox-index-project/sox_dashboard.py", line 181, in update_dashboard
+    filtered_df = df[df['datetime'] >= start_time]
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/common.py", line 76, in new_method
+    return method(self, other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arraylike.py", line 60, in __ge__
+    return self._cmp_method(other, operator.ge)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/series.py", line 6119, in _cmp_method
+    res_values = ops.comparison_op(lvalues, rvalues, op)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/array_ops.py", line 330, in comparison_op
+    res_values = op(lvalues, rvalues)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/common.py", line 76, in new_method
+    return method(self, other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arraylike.py", line 60, in __ge__
+    return self._cmp_method(other, operator.ge)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 985, in _cmp_method
+    return invalid_comparison(self, other, op)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/invalid.py", line 40, in invalid_comparison
+    raise TypeError(f"Invalid comparison between dtype={left.dtype} and {typ}")
+TypeError: Invalid comparison between dtype=datetime64[ns] and Timestamp
+91.165.73.125 - - [06/Apr/2025 22:26:04] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+91.165.73.125 - - [06/Apr/2025 22:26:23] "GET / HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:26:23] "GET /_dash-layout HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:26:23] "GET /_dash-dependencies HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:26:24] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 22:26:24] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 22:26:24] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+[2025-04-06 22:26:24,118] ERROR in app: Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 536, in _validate_comparison_value
+    self._check_compatible_with(other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimes.py", line 540, in _check_compatible_with
+    self._assert_tzawareness_compat(other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimes.py", line 782, in _assert_tzawareness_compat
+    raise TypeError(
+TypeError: Cannot compare tz-naive and tz-aware datetime-like objects.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 983, in _cmp_method
+    other = self._validate_comparison_value(other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 539, in _validate_comparison_value
+    raise InvalidComparison(other) from err
+pandas.errors.InvalidComparison: 2025-03-07 17:26:24.118302-05:00
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/dash.py", line 1405, in dispatch
+    ctx.run(
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 529, in add_context
+    raise err
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 518, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 47, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+  File "/home/ubuntu/sox-index-project/sox_dashboard.py", line 181, in update_dashboard
+    filtered_df = df[df['datetime'] >= start_time]
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/common.py", line 76, in new_method
+    return method(self, other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arraylike.py", line 60, in __ge__
+    return self._cmp_method(other, operator.ge)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/series.py", line 6119, in _cmp_method
+    res_values = ops.comparison_op(lvalues, rvalues, op)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/array_ops.py", line 330, in comparison_op
+    res_values = op(lvalues, rvalues)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/common.py", line 76, in new_method
+    return method(self, other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arraylike.py", line 60, in __ge__
+    return self._cmp_method(other, operator.ge)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 985, in _cmp_method
+    return invalid_comparison(self, other, op)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/invalid.py", line 40, in invalid_comparison
+    raise TypeError(f"Invalid comparison between dtype={left.dtype} and {typ}")
+TypeError: Invalid comparison between dtype=datetime64[ns] and Timestamp
+91.165.73.125 - - [06/Apr/2025 22:26:24] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+INFO:dash.dash:Dash is running on http://0.0.0.0:8050/
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://10.0.0.102:8050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:91.165.73.125 - - [06/Apr/2025 22:28:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:91.165.73.125 - - [06/Apr/2025 22:28:46] "GET /_dash-layout HTTP/1.1" 200 -
+INFO:werkzeug:91.165.73.125 - - [06/Apr/2025 22:28:46] "GET /_dash-dependencies HTTP/1.1" 200 -
+INFO:werkzeug:91.165.73.125 - - [06/Apr/2025 22:28:46] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:91.165.73.125 - - [06/Apr/2025 22:28:46] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:91.165.73.125 - - [06/Apr/2025 22:28:46] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+INFO:__main__:Loaded 3198 rows from CSV
+INFO:__main__:Processed 3198 rows after cleaning
+INFO:__main__:Latest datetime: 2025-04-04 15:55:00
+ERROR:sox_dashboard:Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 536, in _validate_comparison_value
+    self._check_compatible_with(other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimes.py", line 540, in _check_compatible_with
+    self._assert_tzawareness_compat(other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimes.py", line 782, in _assert_tzawareness_compat
+    raise TypeError(
+TypeError: Cannot compare tz-naive and tz-aware datetime-like objects.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 983, in _cmp_method
+    other = self._validate_comparison_value(other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 539, in _validate_comparison_value
+    raise InvalidComparison(other) from err
+pandas.errors.InvalidComparison: 2025-03-07 17:28:46.442073-05:00
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/dash.py", line 1405, in dispatch
+    ctx.run(
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 529, in add_context
+    raise err
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 518, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 47, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+  File "/home/ubuntu/sox-index-project/sox_dashboard.py", line 144, in update_dashboard
+    filtered_df = df[df['datetime'] >= start_time].copy()
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/common.py", line 76, in new_method
+    return method(self, other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arraylike.py", line 60, in __ge__
+    return self._cmp_method(other, operator.ge)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/series.py", line 6119, in _cmp_method
+    res_values = ops.comparison_op(lvalues, rvalues, op)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/array_ops.py", line 330, in comparison_op
+    res_values = op(lvalues, rvalues)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/common.py", line 76, in new_method
+    return method(self, other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arraylike.py", line 60, in __ge__
+    return self._cmp_method(other, operator.ge)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 985, in _cmp_method
+    return invalid_comparison(self, other, op)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/invalid.py", line 40, in invalid_comparison
+    raise TypeError(f"Invalid comparison between dtype={left.dtype} and {typ}")
+TypeError: Invalid comparison between dtype=datetime64[ns] and Timestamp
+INFO:werkzeug:91.165.73.125 - - [06/Apr/2025 22:28:46] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+INFO:__main__:Loaded 3198 rows from CSV
+INFO:__main__:Processed 3198 rows after cleaning
+INFO:__main__:Latest datetime: 2025-04-04 15:55:00
+ERROR:sox_dashboard:Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 536, in _validate_comparison_value
+    self._check_compatible_with(other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimes.py", line 540, in _check_compatible_with
+    self._assert_tzawareness_compat(other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimes.py", line 782, in _assert_tzawareness_compat
+    raise TypeError(
+TypeError: Cannot compare tz-naive and tz-aware datetime-like objects.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 983, in _cmp_method
+    other = self._validate_comparison_value(other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 539, in _validate_comparison_value
+    raise InvalidComparison(other) from err
+pandas.errors.InvalidComparison: 2025-01-06 17:29:53.585695-05:00
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/dash.py", line 1405, in dispatch
+    ctx.run(
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 529, in add_context
+    raise err
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 518, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 47, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+  File "/home/ubuntu/sox-index-project/sox_dashboard.py", line 144, in update_dashboard
+    filtered_df = df[df['datetime'] >= start_time].copy()
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/common.py", line 76, in new_method
+    return method(self, other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arraylike.py", line 60, in __ge__
+    return self._cmp_method(other, operator.ge)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/series.py", line 6119, in _cmp_method
+    res_values = ops.comparison_op(lvalues, rvalues, op)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/array_ops.py", line 330, in comparison_op
+    res_values = op(lvalues, rvalues)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/common.py", line 76, in new_method
+    return method(self, other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arraylike.py", line 60, in __ge__
+    return self._cmp_method(other, operator.ge)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 985, in _cmp_method
+    return invalid_comparison(self, other, op)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/invalid.py", line 40, in invalid_comparison
+    raise TypeError(f"Invalid comparison between dtype={left.dtype} and {typ}")
+TypeError: Invalid comparison between dtype=datetime64[ns] and Timestamp
+INFO:werkzeug:91.165.73.125 - - [06/Apr/2025 22:29:53] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+INFO:__main__:Loaded 3198 rows from CSV
+INFO:__main__:Processed 3198 rows after cleaning
+INFO:__main__:Latest datetime: 2025-04-04 15:55:00
+ERROR:sox_dashboard:Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 536, in _validate_comparison_value
+    self._check_compatible_with(other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimes.py", line 540, in _check_compatible_with
+    self._assert_tzawareness_compat(other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimes.py", line 782, in _assert_tzawareness_compat
+    raise TypeError(
+TypeError: Cannot compare tz-naive and tz-aware datetime-like objects.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 983, in _cmp_method
+    other = self._validate_comparison_value(other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 539, in _validate_comparison_value
+    raise InvalidComparison(other) from err
+pandas.errors.InvalidComparison: 2025-01-06 17:33:47.368240-05:00
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/dash.py", line 1405, in dispatch
+    ctx.run(
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 529, in add_context
+    raise err
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 518, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 47, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+  File "/home/ubuntu/sox-index-project/sox_dashboard.py", line 144, in update_dashboard
+    df = load_data()
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/common.py", line 76, in new_method
+    return method(self, other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arraylike.py", line 60, in __ge__
+    return self._cmp_method(other, operator.ge)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/series.py", line 6119, in _cmp_method
+    res_values = ops.comparison_op(lvalues, rvalues, op)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/array_ops.py", line 330, in comparison_op
+    res_values = op(lvalues, rvalues)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/common.py", line 76, in new_method
+    return method(self, other)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arraylike.py", line 60, in __ge__
+    return self._cmp_method(other, operator.ge)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/arrays/datetimelike.py", line 985, in _cmp_method
+    return invalid_comparison(self, other, op)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/pandas/core/ops/invalid.py", line 40, in invalid_comparison
+    raise TypeError(f"Invalid comparison between dtype={left.dtype} and {typ}")
+TypeError: Invalid comparison between dtype=datetime64[ns] and Timestamp
+INFO:werkzeug:91.165.73.125 - - [06/Apr/2025 22:33:47] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+INFO:dash.dash:Dash is running on http://0.0.0.0:8050/
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://10.0.0.102:8050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:91.165.73.125 - - [06/Apr/2025 22:33:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:91.165.73.125 - - [06/Apr/2025 22:33:58] "GET /_dash-layout HTTP/1.1" 200 -
+INFO:werkzeug:91.165.73.125 - - [06/Apr/2025 22:33:58] "GET /_dash-dependencies HTTP/1.1" 200 -
+INFO:werkzeug:91.165.73.125 - - [06/Apr/2025 22:33:58] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:91.165.73.125 - - [06/Apr/2025 22:33:58] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+INFO:__main__:Loaded 3198 rows from CSV
+DEBUG:__main__:First few rows:
+         date      time  current_value  ...  week52_high  previous_close  open_value
+0  2025-02-06  09:30:00        5084.74  ...      5086.86         5058.30     5058.30
+1  2025-02-06  09:35:00        5073.44  ...      5087.62         5084.74     5087.62
+2  2025-02-06  09:40:00        5067.39  ...      5087.62         5073.44     5074.19
+3  2025-02-06  09:45:00        5069.34  ...      5087.62         5067.39     5067.63
+4  2025-02-06  09:50:00        5072.61  ...      5087.62         5069.34     5070.85
+
+[5 rows x 11 columns]
+INFO:__main__:Processed 3198 rows after cleaning
+INFO:__main__:Latest datetime: 2025-04-04 15:55:00-04:00
+INFO:__main__:Filtered 3198 rows for period ALL
+ERROR:sox_dashboard:Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/dash.py", line 1405, in dispatch
+    ctx.run(
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 529, in add_context
+    raise err
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 518, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 47, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+  File "/home/ubuntu/sox-index-project/sox_dashboard.py", line 198, in update_dashboard
+    fig.add_trace(go.Scatter(
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/plotly/graph_objs/_scatter.py", line 3574, in __init__
+    self["showlegend"] = _v
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/plotly/basedatatypes.py", line 4860, in __setitem__
+    self._set_prop(prop, value)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/plotly/basedatatypes.py", line 5204, in _set_prop
+    raise err
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/plotly/basedatatypes.py", line 5199, in _set_prop
+    val = validator.validate_coerce(val)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/_plotly_utils/basevalidators.py", line 651, in validate_coerce
+    self.raise_invalid_val(v)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/_plotly_utils/basevalidators.py", line 299, in raise_invalid_val
+    raise ValueError(
+ValueError: 
+    Invalid value of type 'numpy.bool' received for the 'showlegend' property of scatter
+        Received value: np.True_
+
+    The 'showlegend' property must be specified as a bool
+    (either True, or False)
+INFO:werkzeug:91.165.73.125 - - [06/Apr/2025 22:33:58] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+INFO:werkzeug:91.165.73.125 - - [06/Apr/2025 22:33:58] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+INFO:__main__:Loaded 3198 rows from CSV
+DEBUG:__main__:First few rows:
+         date      time  current_value  ...  week52_high  previous_close  open_value
+0  2025-02-06  09:30:00        5084.74  ...      5086.86         5058.30     5058.30
+1  2025-02-06  09:35:00        5073.44  ...      5087.62         5084.74     5087.62
+2  2025-02-06  09:40:00        5067.39  ...      5087.62         5073.44     5074.19
+3  2025-02-06  09:45:00        5069.34  ...      5087.62         5067.39     5067.63
+4  2025-02-06  09:50:00        5072.61  ...      5087.62         5069.34     5070.85
+
+[5 rows x 11 columns]
+INFO:__main__:Processed 3198 rows after cleaning
+INFO:__main__:Latest datetime: 2025-04-04 15:55:00-04:00
+INFO:__main__:Filtered 3198 rows for period ALL
+ERROR:sox_dashboard:Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/dash.py", line 1405, in dispatch
+    ctx.run(
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 529, in add_context
+    raise err
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 518, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/dash/_callback.py", line 47, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+  File "/home/ubuntu/sox-index-project/sox_dashboard.py", line 198, in update_dashboard
+    fig.add_trace(go.Scatter(
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/plotly/graph_objs/_scatter.py", line 3574, in __init__
+    self["showlegend"] = _v
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/plotly/basedatatypes.py", line 4860, in __setitem__
+    self._set_prop(prop, value)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/plotly/basedatatypes.py", line 5204, in _set_prop
+    raise err
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/plotly/basedatatypes.py", line 5199, in _set_prop
+    val = validator.validate_coerce(val)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/_plotly_utils/basevalidators.py", line 651, in validate_coerce
+    self.raise_invalid_val(v)
+  File "/home/ubuntu/sox-index-project/venv/lib/python3.10/site-packages/_plotly_utils/basevalidators.py", line 299, in raise_invalid_val
+    raise ValueError(
+ValueError: 
+    Invalid value of type 'numpy.bool' received for the 'showlegend' property of scatter
+        Received value: np.True_
+
+    The 'showlegend' property must be specified as a bool
+    (either True, or False)
+INFO:werkzeug:91.165.73.125 - - [06/Apr/2025 22:38:59] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://10.0.0.102:8050
+[33mPress CTRL+C to quit[0m
+91.165.73.125 - - [06/Apr/2025 22:43:08] "GET / HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:43:08] "GET /_dash-layout HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:43:08] "GET /_dash-dependencies HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:43:09] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 22:43:09] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 22:43:09] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 22:43:09] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:43:20] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:45:10] "POST /_dash-update-component HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://10.0.0.102:8050
+[33mPress CTRL+C to quit[0m
+91.165.73.125 - - [06/Apr/2025 22:46:44] "GET / HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:46:44] "GET /_dash-layout HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:46:44] "GET /_dash-dependencies HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:46:44] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 22:46:44] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 22:46:44] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 22:46:45] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:47:16] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:51:45] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:51:54] "GET / HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:51:54] "GET /_dash-layout HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:51:54] "GET /_dash-dependencies HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:51:54] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 22:51:54] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 22:51:54] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 22:51:54] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 22:56:55] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 23:01:55] "POST /_dash-update-component HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://10.0.0.102:8050
+[33mPress CTRL+C to quit[0m
+91.165.73.125 - - [06/Apr/2025 23:03:24] "GET / HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 23:03:24] "GET /_dash-layout HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 23:03:24] "GET /_dash-dependencies HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 23:03:25] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 23:03:25] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 23:03:25] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 23:03:25] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 23:04:08] "GET / HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 23:04:08] "GET /_dash-layout HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 23:04:08] "GET /_dash-dependencies HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 23:04:09] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 23:04:09] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [06/Apr/2025 23:04:09] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 23:04:09] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [06/Apr/2025 23:09:09] "POST /_dash-update-component HTTP/1.1" 200 -
+90.127.213.56 - - [07/Apr/2025 00:43:32] "GET / HTTP/1.1" 200 -
+90.127.213.56 - - [07/Apr/2025 00:43:32] "GET /_dash-component-suites/dash/deps/polyfill@7.v3_0_2m1743859350.12.1.min.js HTTP/1.1" 200 -
+90.127.213.56 - - [07/Apr/2025 00:43:32] "GET /_dash-component-suites/dash/deps/react@18.v3_0_2m1743859350.3.1.min.js HTTP/1.1" 200 -
+90.127.213.56 - - [07/Apr/2025 00:43:32] "GET /_dash-component-suites/dash/deps/prop-types@15.v3_0_2m1743859350.8.1.min.js HTTP/1.1" 200 -
+90.127.213.56 - - [07/Apr/2025 00:43:32] "GET /_dash-component-suites/dash/deps/react-dom@18.v3_0_2m1743859350.3.1.min.js HTTP/1.1" 200 -
+90.127.213.56 - - [07/Apr/2025 00:43:32] "GET /_dash-component-suites/dash/dash-renderer/build/dash_renderer.v3_0_2m1743859350.min.js HTTP/1.1" 200 -
+90.127.213.56 - - [07/Apr/2025 00:43:32] "GET /_dash-component-suites/dash/dcc/dash_core_components.v3_0_4m1743859350.js HTTP/1.1" 200 -
+90.127.213.56 - - [07/Apr/2025 00:43:32] "GET /_dash-component-suites/dash/dcc/dash_core_components-shared.v3_0_4m1743859350.js HTTP/1.1" 200 -
+90.127.213.56 - - [07/Apr/2025 00:43:32] "GET /_dash-component-suites/dash/html/dash_html_components.v3_0_1m1743859350.min.js HTTP/1.1" 200 -
+90.127.213.56 - - [07/Apr/2025 00:43:32] "GET /_dash-component-suites/dash/dash_table/bundle.v6_0_1m1743859350.js HTTP/1.1" 200 -
+90.127.213.56 - - [07/Apr/2025 00:43:32] "GET /_favicon.ico?v=3.0.2 HTTP/1.1" 200 -
+90.127.213.56 - - [07/Apr/2025 00:43:32] "GET /_dash-layout HTTP/1.1" 200 -
+90.127.213.56 - - [07/Apr/2025 00:43:32] "GET /_dash-dependencies HTTP/1.1" 200 -
+90.127.213.56 - - [07/Apr/2025 00:43:32] "GET /_favicon.ico?v=3.0.2 HTTP/1.1" 200 -
+90.127.213.56 - - [07/Apr/2025 00:43:32] "GET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 200 -
+90.127.213.56 - - [07/Apr/2025 00:43:32] "GET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1" 200 -
+90.127.213.56 - - [07/Apr/2025 00:43:32] "GET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1" 200 -
+90.127.213.56 - - [07/Apr/2025 00:43:32] "POST /_dash-update-component HTTP/1.1" 200 -
+147.185.133.52 - - [07/Apr/2025 04:47:22] "GET / HTTP/1.1" 200 -
+88.186.126.116 - - [07/Apr/2025 08:17:15] "GET / HTTP/1.1" 200 -
+88.186.126.116 - - [07/Apr/2025 08:17:15] "GET /_dash-component-suites/dash/deps/polyfill@7.v3_0_2m1743859350.12.1.min.js HTTP/1.1" 200 -
+88.186.126.116 - - [07/Apr/2025 08:17:15] "GET /_dash-component-suites/dash/deps/react@18.v3_0_2m1743859350.3.1.min.js HTTP/1.1" 200 -
+88.186.126.116 - - [07/Apr/2025 08:17:15] "GET /_dash-component-suites/dash/deps/react-dom@18.v3_0_2m1743859350.3.1.min.js HTTP/1.1" 200 -
+88.186.126.116 - - [07/Apr/2025 08:17:15] "GET /_dash-component-suites/dash/deps/prop-types@15.v3_0_2m1743859350.8.1.min.js HTTP/1.1" 200 -
+88.186.126.116 - - [07/Apr/2025 08:17:15] "GET /_dash-component-suites/dash/dash-renderer/build/dash_renderer.v3_0_2m1743859350.min.js HTTP/1.1" 200 -
+88.186.126.116 - - [07/Apr/2025 08:17:15] "GET /_dash-component-suites/dash/dcc/dash_core_components.v3_0_4m1743859350.js HTTP/1.1" 200 -
+88.186.126.116 - - [07/Apr/2025 08:17:15] "GET /_dash-component-suites/dash/dcc/dash_core_components-shared.v3_0_4m1743859350.js HTTP/1.1" 200 -
+88.186.126.116 - - [07/Apr/2025 08:17:15] "GET /_dash-component-suites/dash/html/dash_html_components.v3_0_1m1743859350.min.js HTTP/1.1" 200 -
+88.186.126.116 - - [07/Apr/2025 08:17:15] "GET /_dash-component-suites/dash/dash_table/bundle.v6_0_1m1743859350.js HTTP/1.1" 200 -
+88.186.126.116 - - [07/Apr/2025 08:17:16] "GET /_dash-dependencies HTTP/1.1" 200 -
+88.186.126.116 - - [07/Apr/2025 08:17:16] "GET /_dash-layout HTTP/1.1" 200 -
+88.186.126.116 - - [07/Apr/2025 08:17:16] "GET /_favicon.ico?v=3.0.2 HTTP/1.1" 200 -
+88.186.126.116 - - [07/Apr/2025 08:17:16] "GET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 200 -
+88.186.126.116 - - [07/Apr/2025 08:17:16] "POST /_dash-update-component HTTP/1.1" 200 -
+88.186.126.116 - - [07/Apr/2025 08:17:16] "GET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1" 200 -
+88.186.126.116 - - [07/Apr/2025 08:17:16] "GET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1" 200 -
+88.186.126.116 - - [07/Apr/2025 08:17:36] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [07/Apr/2025 08:24:27] "GET / HTTP/1.1" 200 -
+91.165.73.125 - - [07/Apr/2025 08:24:27] "GET /_dash-layout HTTP/1.1" 200 -
+91.165.73.125 - - [07/Apr/2025 08:24:27] "GET /_dash-dependencies HTTP/1.1" 200 -
+91.165.73.125 - - [07/Apr/2025 08:24:28] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [07/Apr/2025 08:24:28] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [07/Apr/2025 08:24:28] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [07/Apr/2025 08:24:28] "POST /_dash-update-component HTTP/1.1" 200 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://10.0.0.102:8050
+[33mPress CTRL+C to quit[0m
+91.165.73.125 - - [07/Apr/2025 08:26:13] "GET / HTTP/1.1" 200 -
+91.165.73.125 - - [07/Apr/2025 08:26:13] "GET /_dash-layout HTTP/1.1" 200 -
+91.165.73.125 - - [07/Apr/2025 08:26:13] "GET /_dash-dependencies HTTP/1.1" 200 -
+91.165.73.125 - - [07/Apr/2025 08:26:13] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [07/Apr/2025 08:26:13] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [07/Apr/2025 08:26:13] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [07/Apr/2025 08:26:14] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [07/Apr/2025 08:26:31] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [07/Apr/2025 08:31:14] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [07/Apr/2025 08:36:14] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [07/Apr/2025 08:41:14] "POST /_dash-update-component HTTP/1.1" 200 -
+91.165.73.125 - - [07/Apr/2025 08:41:21] "GET / HTTP/1.1" 200 -
+91.165.73.125 - - [07/Apr/2025 08:41:21] "GET /_dash-layout HTTP/1.1" 200 -
+91.165.73.125 - - [07/Apr/2025 08:41:22] "GET /_dash-dependencies HTTP/1.1" 200 -
+91.165.73.125 - - [07/Apr/2025 08:41:22] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [07/Apr/2025 08:41:22] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [07/Apr/2025 08:41:22] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+91.165.73.125 - - [07/Apr/2025 08:41:22] "POST /_dash-update-component HTTP/1.1" 200 -
